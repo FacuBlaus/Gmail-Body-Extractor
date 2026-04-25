@@ -7,7 +7,7 @@ This project connects to a Gmail inbox via IMAP and extracts data **only from th
 
 
 ## Features
-- IMAP connection to Gmail
+- IMAP connection to Gmail. You cand get the app password in your count configuration 
 - MIME decoding for email subjects
 - Parsing of plain text email body
 - Regex-based tracking extraction
