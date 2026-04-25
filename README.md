@@ -1,5 +1,5 @@
 # Gmail-Body-Extractor
-We need to extract information from the email body because it does not arrive in the attachments. This automation can give us a lot "copy-paste" time work 
+We need to extract information from the email body because it does not arrive in the attachments. This automation significantly reduces manual effort by removing repetitive copy-paste tasks.
 
 
 ## Overview
